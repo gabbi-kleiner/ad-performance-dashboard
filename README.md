@@ -4,8 +4,8 @@ This project simulates a dashboard analyzing key metrics for digital advertising
 
 ## Dashboard Examples
 
-![Dashboard Example 1](dashboard-screenshot1.png)  
-![Dashboard Example 2](dashboard-screenshot2.png)
+![Dashboard Example 1](dashboard-screenshot1.png.png)  
+![Dashboard Example 2](dashboard-screenshot2.png.png)
 
 ## Metrics Included
 
