@@ -1,33 +1,32 @@
-# Digital Advertising Campaign Performance Dashboard
+# Digital Advertising Performance Dashboard
 
-This project simulates a digital advertising performance dashboard analyzing campaign effectiveness across multiple channels.
+This project simulates a dashboard analyzing key metrics for digital advertising campaigns across multiple channels. It demonstrates the use of **HTML, JavaScript, and Chart.js** to visualize digital marketing KPIs.
 
-The dashboard focuses on common advertising KPIs used by marketing teams and digital ad platforms.
+## Dashboard Examples
 
-Metrics analyzed include:
+![Dashboard Example 1](dashboard-screenshot1.png)  
+![Dashboard Example 2](dashboard-screenshot2.png)
 
-- CPM (Cost per 1000 Impressions)
-- CTR (Click Through Rate)
-- ROAS (Return on Ad Spend)
-- Total campaign spend and impressions
+## Metrics Included
+
+- **CPM** (Cost per 1,000 Impressions)  
+- **CTR** (Click Through Rate)  
+- **ROAS** (Return on Ad Spend)
 
 ## Tools Used
 
-Google Sheets – campaign data generation  
-Google Looker Studio – dashboard visualization  
-
-## Example Metrics
-
-Sample CPM used in the dataset: $5.80, which reflects typical mid-tier digital ad inventory pricing.
+- HTML / CSS for structure and styling  
+- JavaScript & Chart.js for interactive charts  
+- Fake campaign data to simulate realistic digital ad performance
 
 ## Key Insights
 
-- Retargeting campaigns typically show higher CTR and ROAS.
-- Brand awareness campaigns generate high impressions but lower direct conversion performance.
-- Cross-channel analysis helps optimize budget allocation.
+- Retargeting campaigns generally show higher CTR and ROAS.  
+- Brand awareness campaigns generate higher impressions but lower direct conversions.  
+- Visualizing these metrics helps optimize ad spend and budget allocation.
 
 ## Future Improvements
 
-- Integrate real campaign API data
-- Add SQL-based data warehouse pipeline
-- Automate reporting
+- Pull data directly from ad platform APIs (e.g., TikTok Ads, Meta Ads)  
+- Include SQL queries to analyze historical campaign performance  
+- Add additional visualizations and interactivity for more in-depth insights
